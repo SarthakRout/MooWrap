@@ -4,6 +4,7 @@
     "description": "Adds functionality to MooKIT!",
 
     "permissions": [
+    	"alarms",
     	"activeTab", 
     	"declarativeContent", 
     	"storage",
